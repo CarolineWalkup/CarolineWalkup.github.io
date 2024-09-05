@@ -8,8 +8,9 @@ p{
     font-size: 2em; 
 }
 a:visited{
-    color: rgb(172, 114, 43)
+    color: rgb(172, 114, 43); 
 }
 a:hover{
-    font-size: 1.5em
+    font-size: 1.5em;
+    color: hotpink; 
 }
