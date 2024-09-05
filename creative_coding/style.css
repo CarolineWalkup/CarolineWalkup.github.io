@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(43, 226, 147);
+    margin:0;
+    padding:0;
+}
+p{
+    font-family: fantasy;
+    font-size: 2em; 
+}
+a:visited{
+    color: rgb(172, 114, 43)
+}
+a:hover{
+    font-size: 1.5em
+}
